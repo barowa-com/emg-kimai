@@ -22,7 +22,6 @@
   "browserslist": [
     "defaults"
   ],
-  "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "@babel/core": "^7.19.6",
     "@babel/eslint-parser": "^7.18.2",
